@@ -13,6 +13,11 @@ Displays the available posts. Users can select posts by tapping the star icon.
 
 ![Posts Screen](screenshots/posts_screen.png)
 
+### Empty Favorites Screen
+Displayed when the user has not added any favorite posts.
+
+![Empty Favorites Screen](screenshots/empty_favorites.png)
+
 ### Favorites Selection
 Shows posts selected as favorites.
 
@@ -22,11 +27,6 @@ Shows posts selected as favorites.
 Displays all posts added to favorites.
 
 ![Favorites Screen](screenshots/favorites_screen.png)
-
-### Empty Favorites Screen
-Displayed when the user has not added any favorite posts.
-
-![Empty Favorites Screen](screenshots/empty_favorites.png)
 
 ### Offline Mode
 Shows that previously saved posts are still available without an internet connection.
@@ -52,7 +52,7 @@ Shows that previously saved posts are still available without an internet connec
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/posts-favorites-app.git
+git clone https://github.com/FarahWalid04/posts-favorites-app.git
 ```
 
 2. Open the project folder:
@@ -78,5 +78,3 @@ flutter run -d chrome --web-port=8080 --no-web-resources-cdn
 - **Course:** Mobile Computing
 - **Assignment:** Hive – Local NoSQL Storage
 - **Project:** Posts & Favorites App
-
-
